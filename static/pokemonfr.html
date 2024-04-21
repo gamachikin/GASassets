@@ -13,8 +13,7 @@
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
             EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-            EJS_gameUrl = "pokemonfr.zip";
-            EJS_biosUrl = "gba_bios.bin";
+            EJS_gameUrl = new Blob([Uint8Array.from(window.pokemonfrgameData)]);
         </script>
         <script src="https://cdn.emulatorjs.org/stable/data/loader.js"></script>
     </body>
