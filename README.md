@@ -1,3 +1,3 @@
-# Games And Stuff Roms
-Repo for hosting retro games for Games And Stuff
+# Games And Stuff Assets
+Repo for hosting games and apps for Games And Stuff
 
